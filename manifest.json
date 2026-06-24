@@ -1,0 +1,22 @@
+{
+  "name": "AChat",
+  "short_name": "AChat",
+  "start_url": "https://chunhua1780.github.io/AChat/",
+  "scope": "https://chunhua1780.github.io/AChat/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f2f2f7",
+  "theme_color": "#007aff",
+  "icons": [
+    {
+      "src": "./icon192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon192.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
